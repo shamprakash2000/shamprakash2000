@@ -8,8 +8,11 @@ Java & Spring Boot — now building AI agents, RAG & MCP
 </td>
 <td width="38%" valign="middle" align="center">
 
-![4+ years exp](https://img.shields.io/badge/4%2B-years_exp-24292f?style=for-the-badge&labelColor=24292f)
-![30M+ req/day](https://img.shields.io/badge/30M%2B-req%2Fday_scaled-24292f?style=for-the-badge&labelColor=24292f)
+### 4+
+<sub>years experience</sub>
+
+### 30M+
+<sub>requests/day scaled</sub>
 
 </td>
 </tr>
