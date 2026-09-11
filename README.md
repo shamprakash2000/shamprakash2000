@@ -1,13 +1,12 @@
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="middle">
 
 ### Sham Prakash K
-
-Backend Engineer with 4+ years designing and building distributed, high-scale Java/Spring systems — currently @ Amex GBT, previously HashedIn by Deloitte. Now going deep on Spring AI, RAG, and MCP, learning agentic AI engineering by shipping real projects.
+Java & Spring Boot — now building AI agents, RAG & MCP
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
 ![4+ years exp](https://img.shields.io/badge/4%2B-years_exp-24292f?style=for-the-badge&labelColor=24292f)
 ![30M+ req/day](https://img.shields.io/badge/30M%2B-req%2Fday_scaled-24292f?style=for-the-badge&labelColor=24292f)
@@ -15,6 +14,8 @@ Backend Engineer with 4+ years designing and building distributed, high-scale Ja
 </td>
 </tr>
 </table>
+
+Backend Engineer with 4+ years designing and building distributed, high-scale Java/Spring systems — currently @ Amex GBT, previously HashedIn by Deloitte. Now going deep on Spring AI, RAG, and MCP, learning agentic AI engineering by shipping real projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sham-prakash-k/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamprakash2000.github.io/shamprakashk-portfolio/)
