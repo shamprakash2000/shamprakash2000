@@ -61,9 +61,3 @@ Backend Engineer with 4+ years designing and building distributed, high-scale Ja
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamprakash2000&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shamprakash2000&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</div>
